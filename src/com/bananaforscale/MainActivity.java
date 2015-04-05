@@ -23,9 +23,6 @@ public class MainActivity extends ActionBarActivity {
 	private ActionBar mActionBar;
 	
 	private String color_yellow = "#f1f211";
-	private String color_lightbrown = "#a3a574";
-	private String color_brown = "#989a6d";
-	
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {

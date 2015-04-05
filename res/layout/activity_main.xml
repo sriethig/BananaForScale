@@ -13,8 +13,18 @@
     android:id="@+id/pager"
     android:layout_width="400dp"
     android:layout_height="400dp"
-    android:theme="@style/AppTheme" />
+    android:theme="@style/AppTheme">
+    
+	<android.support.v4.view.PagerTabStrip
+	    xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:id="@+id/pager_tab_strip"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:background="@color/lightbrown"
+	    android:textColor="@color/white"
+	    android:gravity="center_horizontal"
+	    android:padding="10dip" />
+	
+	</android.support.v4.view.ViewPager>
 
 </RelativeLayout>
-
-<!-- android:theme="@style/bananatheme" -->
