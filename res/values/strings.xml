@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BananaForScale</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_overflow">Go to 9Gag for more bananas</string>
+    <string name="action_more">More</string>
+    <string name="length">length</string>
+    <string name="weight">weight</string>
+    <string name="calculate">calculate</string>
+    <string name="invalid_value">please insert a valid value</string>
+
+</resources>

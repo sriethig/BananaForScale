@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="length_display">
+        <item>km</item>
+        <item>m</item>
+        <item>cm</item>
+        <item>miles</item>
+        <item>feet</item>
+        <item>inches</item>
+    </array>
+    
+    <array name="length_values">
+        <item>100000</item>
+        <item>100</item>
+        <item>1</item>
+        <item>160934.4</item>
+        <item>30.48</item>
+        <item>2.54</item>
+    </array>
+    
+    <array name="weight_display">
+        <item>kg</item>
+        <item>g</item>
+        <item>lbs</item>
+    </array>
+    
+    <array name="weight_values">
+        <item>1000</item>
+        <item>1</item>
+        <item>0.0022046</item>
+    </array>
+    
+</resources>
